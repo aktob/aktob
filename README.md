@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akmal_Toba
-- 👀 I’m FrontEnd Developer
+- 👀 FrontEnd Developer
 
 
 <!---
